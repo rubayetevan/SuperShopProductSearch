@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Super Shop Product Search</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Product Settings</string>
+    <string name="title_activity_product_search">Product Search</string>
+    <string name="title_activity_login">Admin Login</string>
+    <string name="title_activity_product_settings">Product Settings</string>
+    <string name="title_activity_product_add">Add Product</string>
+    <string name="title_activity_product_delete">Delete Product</string>
+    <string name="title_activity_product_update">Update Product</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <string-array name="product_category_array">
+        <item>Snacks</item>
+        <item>Milk</item>
+        <item>Cosmetics</item>
+        <item>Fish</item>
+        <item>Grocery</item>
+        <item>Chocolates</item>
+        <item>Rice</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="product_status_array">
+        <item>Available</item>
+        <item>Not Available</item>
+    </string-array>
+</resources>
