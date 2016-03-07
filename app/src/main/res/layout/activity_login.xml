@@ -53,5 +53,14 @@
         android:textColor="@android:color/black"
         android:onClick="Login"
         android:gravity="center"/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/black"
+            android:text="Default Username and Pass
+            word is : Admin"
+            />
     </LinearLayout>
 </ScrollView>
